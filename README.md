@@ -28,7 +28,4 @@ I'm constanly learning and open to new ideas.
 💬 Ask me about Kotlin/Swift/Angular/Go
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnyoat&show_icons=true) 
-
 ![Profile views](https://gpvc.arturio.dev/johnyoat)  
