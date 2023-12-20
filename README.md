@@ -27,4 +27,4 @@ I'm constanly learning and open to new ideas.
 👯 I’m looking to collaborate on android and IOS Projects<br>
 💬 Ask me about Kotlin/Swift/Angular/Go
 
-📫 How to reach me: twitter ![@johnyoat](https://twitter.com/johnyoat)  
+📫 How to reach me: twitter [@johnyoat](https://twitter.com/johnyoat)  
