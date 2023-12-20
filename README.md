@@ -28,6 +28,3 @@ I'm constanly learning and open to new ideas.
 💬 Ask me about Kotlin/Swift/Angular/Go
 
 📫 How to reach me: twitter @johnyoat
-
-
-![Profile views](https://gpvc.arturio.dev/johnyoat)  
