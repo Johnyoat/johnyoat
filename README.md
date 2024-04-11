@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2674243a-d165-4717-a6c0-6048e5eebd79" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 I'm a certified [AWS Solution's Architect - Assosiate](https://www.credly.com/badges/2674243a-d165-4717-a6c0-6048e5eebd79/public_url). Join me on my cloud Journey as I 🛠️ build ✨amazing stuff with Golang in the  ☁️ cloud. 
 <br><br>
 🔧 Skills<br>
