@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a certified [AWS Solution's Architect - Assosiate](https://www.credly.com/badges/2674243a-d165-4717-a6c0-6048e5eebd79/public_url). Join me on my cloud Journey as I 🛠️ build ✨amazing stuff with Golang in the  ☁️ cloud. 
+I'm a certified [AWS Solution's Architect - Associate](https://www.credly.com/badges/2674243a-d165-4717-a6c0-6048e5eebd79/public_url). Join me on my cloud Journey as I 🛠️ build ✨amazing stuff with Golang in the  ☁️ cloud. 
 <br><br>
 🔧 Skills<br>
-    ✨ Native Mobile/Web Development
-    ✨ Cloud Archtiecting
-    ✨ DevOps
+    ✨ Native Mobile/Web Development<br>
+    ✨ Cloud Archtiecting<br>
+    ✨ DevOps<br>
     ✨ Backend with Golang
 
 
