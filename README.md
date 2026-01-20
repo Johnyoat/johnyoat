@@ -1,30 +1,31 @@
 ### Hi, Johnson here 👋
 
-<!--
-**Johnyoat/johnyoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cloud and backend engineer with a strong interest in building reliable, scalable systems in the cloud.
 
-Here are some ideas to get you started:
+---
 
+### 🎓 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+[![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/2674243a-d165-4717-a6c0-6048e5eebd79/public_url)
 
-- 🤔 I’m looking for help with ...
- 
-📫 How to reach me: twitter @johnyoat
-- ⚡ Fun fact: ...
--->
+[![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/earner/earned/badge/3b8fef99-0f9f-46cf-aeb7-fc74e291a80d)
 
-I'm a certified [AWS Solution's Architect - Associate](https://www.credly.com/badges/2674243a-d165-4717-a6c0-6048e5eebd79/public_url). Join me on my cloud Journey as I 🛠️ build ✨amazing stuff with Golang in the  ☁️ cloud. 
-<br><br>
-🔧 Skills<br>
-    ✨ Native Mobile/Web Development<br>
-    ✨ Cloud Archtiecting<br>
-    ✨ DevOps<br>
-    ✨ Backend with Golang
+---
 
+Join me on my cloud journey as I 🛠️ build practical solutions using **Golang** and **Infrastructure as Code** in the ☁️ cloud.
 
-👯 I’m looking to collaborate on development with Golang
-💬 Ask me about Kotlin/Swift/Angular/Go/AWS
+---
 
-📫 How to reach me: twitter [@johnyoat](https://twitter.com/johnyoat)  
+### 🔧 Skills
+- Native Mobile & Web Development  
+- Cloud Architecture (AWS)  
+- Infrastructure as Code (Terraform)  
+- Backend Development with Golang  
+- CI/CD and DevOps fundamentals  
+
+---
+
+👯 Open to collaborating on **Go** and **cloud-focused** projects  
+💬 Ask me about **Kotlin, Swift, Angular, Go, AWS, Terraform**  
+
+📫 Reach me on Twitter: [@johnyoat](https://twitter.com/johnyoat)
